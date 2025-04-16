@@ -40,8 +40,9 @@ Aim.pptx:
     ​
 
 Sample Data Files:
-    Due to file size constraints, only representative data files (such as a sample patients.csv and a few accelerometer log files) are included. These files illustrate the data structure and format used for analysis. Instructions are provided within the Notebook on how to update the file paths to your local data location.
-
+    Due to file size constraints, only representative data files (such as a sample patients.csv and a few accelerometer log files) are included. These files illustrate the data structure and format used for analysis.
+    1.Sample patients MAL Scores
+    2. Sample Patient Data - Accelerometer based
 
 Installation and Setup
 
